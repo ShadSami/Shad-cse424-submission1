@@ -4,4 +4,4 @@
 # CSE424
 
 # TASK 01 
-# Youtube unlisted playlist link : https://www.youtube.com/watch?v=Ln_AHgWR-e8&list=PLMQdYNUWOrJq8qHEiLYZURSSf_Ti9wRrl&index=1
+# Youtube unlisted playlist link : https://www.youtube.com/watch?v=GuMRrji7cQA&list=PLMQdYNUWOrJq8qHEiLYZURSSf_Ti9wRrl&index=1&t=21s
